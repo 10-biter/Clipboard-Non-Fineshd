@@ -23,6 +23,6 @@ namespace clipboard {
 
 
     export function paste(): void {
-        basic.showString()
+        basic.showString("not finishd")
     }
 }
