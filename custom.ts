@@ -8,7 +8,7 @@
 /**
  * Custom blocks
  */
-//% weight=100 color=#c7793e icon="\uf121"
+//% weight=100 color=#c7793e icon="\uf328"
 namespace clipboard {
     /**
      * TODO: describe your function here
