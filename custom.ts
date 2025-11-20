@@ -17,13 +17,17 @@ namespace clipboard {
      * @param e describe parameter here
      */
     //% block
-    export function copy(text: string ): void {
+    export function copy_But_Less_then_11(text: string ): void {
         let clip = text
     }
 
 
-    export function fib(value: number): number {
-        return value <= 1 ? value : fib(value - 1) + fib(value - 2);
+    export function paste(signal:number): any {
+        if (signal = 1) {
+            return 1
+        }
+
+
     }
     }
 
